@@ -1,7 +1,7 @@
 import React from "react";
 import "../index.css";
-// import imgPizza from "../img/pizza.png";
-// import imgCoin from "../img/coin-pizza.png";
+// import imgPizza from "../img/pizza.png";https://urlz.fr/f0SR
+// import imgCoin from "../img/coin-pizza.png";https://urlz.fr/f0S6
 
 const TitrePizza = { textAlign: "center", fontSize: "80px" };
 const ImgPizzaStyle = { textAlign: "center", marginBottom: "1vh" };
@@ -16,13 +16,13 @@ export const CookiesScors = (props) => {
 
       <p style={PScore}>
         {" "}
-        {/* <img className="imgCoin" src={imgCoin} width="20" height="20" /> Pizza */}
+        <img className="imgCoin" src="https://urlz.fr/f0S6" width="20" height="20" /> Pizza 
         Coin: {score}
       </p>
 
       <img
         style={ImgPizzaStyle}
-        // src={imgPizza}
+        src="https://urlz.fr/f0SR"
         width="420"
         height="320"
         className="cookie-btn"
