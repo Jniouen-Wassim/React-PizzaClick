@@ -61,20 +61,20 @@ export const BonusCookies = (props) => {
         }}
       >
         <h3>Double Pizza Click</h3>
-        {/* <img src="https://urlz.fr/f0S0" width="100" height="100" /> */}
+        <img src="https://urlz.fr/f0S0" width="100" height="100" />
         <h4>
           {" "}
-          {/* <img className="imgCoin" src="https://urlz.fr/f0S6" width="20" height="20" /> */}
+           <img className="imgCoin" src="https://urlz.fr/f0S6" width="20" height="20" />
           Price: {priceValueClick} pizza coin
         </h4>
       </button>
     ) : (
       <button disabled style={{ background: "transparent", opacity: "0.4" }}>
         <h3>Double Pizza Click</h3>
-        {/* <img src="https://urlz.fr/f0S0" width="100" height="100" /> */}
+         <img src="https://urlz.fr/f0S0" width="100" height="100" />
         <h4>
           {" "}
-          {/* <img className="imgCoin" src="https://urlz.fr/f0S6" width="20" height="20" /> */}
+           <img className="imgCoin" src="https://urlz.fr/f0S6" width="20" height="20" />
           Price: {priceValueClick} pizza coin
         </h4>
       </button>
@@ -89,20 +89,20 @@ export const BonusCookies = (props) => {
         }}
       >
         <h3>Auto Pizza Click</h3>
-        {/* <img src="https://urlz.fr/f0RV" width="100" height="100" /> */}
+         <img src="https://urlz.fr/f0RV" width="100" height="100" />
         <h4>
           {" "}
-          {/* <img className="imgCoin" src="https://urlz.fr/f0S6" width="20" height="20" /> */}
+           <img className="imgCoin" src="https://urlz.fr/f0S6" width="20" height="20" />
           Price: {priceAutoClick} pizza coin
         </h4>
       </button>
     ) : (
       <button disabled style={{ background: "transparent", opacity: "0.4" }}>
         <h3>Auto Pizza Click </h3>
-        {/* <img src="https://urlz.fr/f0RV" width="100" height="100" /> */}
+         <img src="https://urlz.fr/f0RV" width="100" height="100" />
         <h4>
           {" "}
-          {/* <img className="imgCoin" src="https://urlz.fr/f0S6" width="20" height="20" /> */}
+           <img className="imgCoin" src="https://urlz.fr/f0S6" width="20" height="20" />
           Price: {priceAutoClick} pizza coin
         </h4>
       </button>
@@ -115,12 +115,12 @@ export const BonusCookies = (props) => {
     }}
   >
     <h3>Explosion Pizza Click</h3>
-    {/* <img src="https://urlz.fr/f0SD" width="100" height="100" /> */}
-     <h4> {/*<img className="https://urlz.fr/f0S6" src="https://urlz.fr/f0S6" width="20" height="20" />*/}Price: {priceLoloClick} pizza coin</h4> 
+     <img src="https://urlz.fr/f0SD" width="100" height="100" />
+     <h4> <img className="https://urlz.fr/f0S6" src="https://urlz.fr/f0S6" width="20" height="20" />Price: {priceLoloClick} pizza coin</h4> 
   </button>) : (<button disabled style={{background: 'transparent', opacity: '0.4'}}>
     <h3>Explosion Pizza Click </h3>
-    {/* <img src="https://urlz.fr/f0SD" width="100" height="100" /> */}
-     <h4> {/*<img className="https://urlz.fr/f0S6" src="https://urlz.fr/f0S6" width="20" height="20" />*/}Price: {priceLoloClick} pizza coin</h4> 
+     <img src="https://urlz.fr/f0SD" width="100" height="100" />
+     <h4> <img className="https://urlz.fr/f0S6" src="https://urlz.fr/f0S6" width="20" height="20" />Price: {priceLoloClick} pizza coin</h4> 
   </button>)
 
   return (
