@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Reat-PizzaClick/static/css/main.25f21b4d.chunk.css",
-    "main.js": "/Reat-PizzaClick/static/js/main.908939d0.chunk.js",
-    "main.js.map": "/Reat-PizzaClick/static/js/main.908939d0.chunk.js.map",
-    "runtime-main.js": "/Reat-PizzaClick/static/js/runtime-main.689f5820.js",
-    "runtime-main.js.map": "/Reat-PizzaClick/static/js/runtime-main.689f5820.js.map",
-    "static/js/2.0382c58c.chunk.js": "/Reat-PizzaClick/static/js/2.0382c58c.chunk.js",
-    "static/js/2.0382c58c.chunk.js.map": "/Reat-PizzaClick/static/js/2.0382c58c.chunk.js.map",
-    "index.html": "/Reat-PizzaClick/index.html",
-    "static/css/main.25f21b4d.chunk.css.map": "/Reat-PizzaClick/static/css/main.25f21b4d.chunk.css.map",
-    "static/js/2.0382c58c.chunk.js.LICENSE.txt": "/Reat-PizzaClick/static/js/2.0382c58c.chunk.js.LICENSE.txt"
+    "main.css": "/React-PizzaClick/static/css/main.25f21b4d.chunk.css",
+    "main.js": "/React-PizzaClick/static/js/main.908939d0.chunk.js",
+    "main.js.map": "/React-PizzaClick/static/js/main.908939d0.chunk.js.map",
+    "runtime-main.js": "/React-PizzaClick/static/js/runtime-main.e0e2c9d4.js",
+    "runtime-main.js.map": "/React-PizzaClick/static/js/runtime-main.e0e2c9d4.js.map",
+    "static/js/2.0382c58c.chunk.js": "/React-PizzaClick/static/js/2.0382c58c.chunk.js",
+    "static/js/2.0382c58c.chunk.js.map": "/React-PizzaClick/static/js/2.0382c58c.chunk.js.map",
+    "index.html": "/React-PizzaClick/index.html",
+    "static/css/main.25f21b4d.chunk.css.map": "/React-PizzaClick/static/css/main.25f21b4d.chunk.css.map",
+    "static/js/2.0382c58c.chunk.js.LICENSE.txt": "/React-PizzaClick/static/js/2.0382c58c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.689f5820.js",
+    "static/js/runtime-main.e0e2c9d4.js",
     "static/js/2.0382c58c.chunk.js",
     "static/css/main.25f21b4d.chunk.css",
     "static/js/main.908939d0.chunk.js"
