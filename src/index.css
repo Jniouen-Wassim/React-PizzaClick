@@ -34,7 +34,7 @@ body {
     
 }
 
-.cookie-btn:hover {
+.imgPizza:hover {
     cursor: pointer;
 
 }
@@ -56,3 +56,14 @@ button{
 }
 
 
+@media screen and (max-width: 515px){
+
+  .imgPizza{
+    width: 220px ;
+    height: 220px ;
+  }
+
+  button{
+    margin-bottom: 50px;
+  }
+}

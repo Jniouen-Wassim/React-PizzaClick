@@ -19,13 +19,7 @@ export const CookiesScors = (props) => {
         Coin: {score}
       </p>
 
-      <img
-        style={ImgPizzaStyle}
-        src={imgPizza}
-        width="420"
-        height="320"
-        className="cookie-btn"
-        alt="img"
+      <img  style={ImgPizzaStyle} src={imgPizza} width="420" height="320" className="imgPizza" alt="img"
         onClick={() => {
           setScore(score + valueClick);
         }}
